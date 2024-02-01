@@ -1,5 +1,5 @@
 # HB-F1X series keyboard sheet replacement PCB (Flex PCB version)
-Based on the data created by S0uceror, we created a Flex PCB version to replace the keyboard sheet.
+Based on the data created by S0urceror, we created a Flex PCB version to replace the keyboard sheet.
 Operation has been confirmed on the actual HB-F1XD and HB-F1XV. :-)
 
 ## Creative Commons - BY NC - license
